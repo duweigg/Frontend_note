@@ -1,4 +1,2 @@
-# Frontend_note
-Frontend notes
-
-# Sample Question List
+# Frontend notes CSS
+this repository includes the essential notes for CSS frontend note
